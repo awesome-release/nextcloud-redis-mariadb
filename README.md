@@ -1,3 +1,11 @@
+## Verified to work in Release
+This project was derived from the nextcloud-redis-mariadb project in [awesome-compose](https://github.com/docker/awesome-compose)
+
+No modifications were necessary for this project to run in Release.
+
+To make this project run in [Release](https://releaseapp.io), simply create a new application with this repository.
+
+
 ## Nextcloud with Redis and MariaDB
 This example defines one of the basic setups for Nextcloud. More details on how to
 further customize the installation and the compose file can be found on the
